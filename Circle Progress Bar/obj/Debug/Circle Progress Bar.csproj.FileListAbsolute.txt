@@ -1,0 +1,10 @@
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\bin\Debug\Circle Progress Bar.exe.config
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\bin\Debug\Circle Progress Bar.exe
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\bin\Debug\Circle Progress Bar.pdb
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\obj\Debug\Circle Progress Bar.csprojAssemblyReference.cache
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\obj\Debug\Circle_Progress_Bar.Form1.resources
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\obj\Debug\Circle_Progress_Bar.Properties.Resources.resources
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\obj\Debug\Circle Progress Bar.csproj.GenerateResource.cache
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\obj\Debug\Circle Progress Bar.csproj.CoreCompileInputs.cache
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\obj\Debug\Circle Progress Bar.exe
+C:\Users\Illamugundhan\source\repos\Graphics\Circle Progress Bar\obj\Debug\Circle Progress Bar.pdb
